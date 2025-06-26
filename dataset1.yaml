@@ -1,0 +1,9 @@
+train: C:/alldataset/train/images
+val: C:/alldataset/val/images
+test: C:/alldataset/test/images
+
+
+nc: 1
+
+names: ["y_bitki"]
+
